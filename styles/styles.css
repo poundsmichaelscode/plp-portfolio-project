@@ -899,13 +899,7 @@ i {
   .about-container .right-about {
     padding-top: 2.5rem;
   }
-  .portfolios {
-    grid-template-columns: 1fr 1fr;
-  }
-  .blogs {
-    grid-template-columns: 1fr 1fr;
-    max-width: 70%;
-  }
+ 
   .main-title h2 {
     font-size: 4rem;
   }

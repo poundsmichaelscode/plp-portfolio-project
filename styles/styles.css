@@ -24,16 +24,16 @@
 /*light mode*/
 .light-mode {
   --color-primary:#f2f3f6;
-  --color--secondary: rgb(10, 10, 11);
+  --color--secondary: rgb(54, 54, 253);
   --color--white: rgb(5, 9, 233);
-  --color--black:#0000;
+  --color--black:#615a5a00;
   --color--grey0:#4932f1;
   --color--grey1:#054ea1;
   --color--grey2:#340cc4;
-  --color--grey3:#101211;
-  --color--grey4:#454e56;
-  --color--grey5:#2a2e35;
-  --color--grey6:#12181b;
+  --color--grey3:#050806;
+  --color--grey4:#fafefd;
+  --color--grey5:#d5e4f4;
+  --color--grey6:#64b0d6;
 }
 
 body {
@@ -901,13 +901,13 @@ i {
   }
  
   .main-title h2 {
-    font-size: 4rem;
+    font-size: 2rem;
   }
   .main-title h2 span {
-    font-size: 4rem;
+    font-size: 1rem;
   }
   .main-title h2 .bg-text {
-    font-size: 4.5rem;
+    font-size: 1.5rem;
   }
 }
 @media screen and (max-width: 970px) {
@@ -956,4 +956,9 @@ i {
   .controls .control {
     margin: 2rem 0.3rem !important;
   }
+
+ 
 }
+
+
+

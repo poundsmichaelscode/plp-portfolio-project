@@ -29,8 +29,7 @@ to build an interactive and visually appealing web application. The application 
 Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - CSS Enhancements: CSS Transitions, Keyframes, Flexbox
-- Backend: Node.js, Express.js
-- Database: MongoDB / Firebase / MySQL (depending on implementation)
+
 
  Installation
 
@@ -54,6 +53,8 @@ Future Enhancements
 - Implementing more complex animations.
 - Expanding database functionality for better user experience.
 - Backend SQL for Database
+- - Backend: Node.js, Express.js
+- Database: MongoDB / Firebase / MySQL (depending on implementation)
 
 
 

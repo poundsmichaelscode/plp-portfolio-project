@@ -6,7 +6,7 @@ link to live preview of my project:
 Portfolio Project: Interactive Web Application
 
  Project Overview
-This project showcases my ability to work with **JavaScript, CSS transitions & animations, and database integration
+This project showcases my ability to work with JavaScript, CSS transitions & animations, and database integration
 to build an interactive and visually appealing web application. The application is designed to demonstrate dynamic content updates, smooth animations, and data management using a backend database.
 
  Features

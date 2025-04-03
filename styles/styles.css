@@ -351,16 +351,16 @@ i {
   width: 20%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 45%;
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .sql {
   width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .React {
-  width: 20%;
+  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .firebase {
-  width: 80%;
+  width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .next-js {
   width: 20%;
@@ -372,7 +372,7 @@ i {
   width: 30%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .php {
-  width: 20%;
+  width: 30%;
 }
 .about-stats .stat-title {
   text-transform: uppercase;
